@@ -3,8 +3,8 @@
 # The purpose of this program is to initialise a new swarm.
 # It also determines the size of the swarm.
 
-rm insects.txt
-rm -r pupa*
+rm insects.txt 2> /dev/null
+rm -r pupa* 2>/dev/null
 # redirect errors to /dev/null
 
 for i in {1..20} # say how many prototype insects you will want
