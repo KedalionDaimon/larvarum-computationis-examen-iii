@@ -202,7 +202,7 @@ ecl
 
 D. Executability
 
-Now I assume you have the compiled programs "examen" and "pareser". Copy now all remaining files into the directory that you have chosen as mentioned under IV. B. Make sure the bash-scripts are executable and the programs are executable (which they should be already):
+Now I assume you have the compiled programs "examen" and "parser". Copy now all remaining files into the directory that you have chosen as mentioned under IV. B. Make sure the bash-scripts are executable and the programs are executable (which they should be already):
 
 chmod +x examen parser *.sh
 
